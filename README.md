@@ -54,6 +54,9 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 Para contribuir com KPIS, siga estas etapas:
 
+> [!CAUTION]
+> Nunca commite diretamente na branch main sem code review e pull request.
+
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
 3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
@@ -83,7 +86,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/gustavo-henrique-dos-santos-12a1b1221))]((https://www.linkedin.com/in/gustavo-henrique-dos-santos-12a1b1221))
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavohenrisantos@gmail.com)](mailto:gustavohenrisantos@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gustavohenrisantos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavohenrisantos@gmail.com)](mailto:gustavohenrisantos@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/hdsgd)
 
 ## 📝 Licença
