@@ -42,6 +42,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 **Ferramentas de desenvolvimento**
+
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
@@ -59,7 +60,6 @@ Para contribuir com KPIS, siga estas etapas:
 4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
 5. Crie a solicitação de pull.
 
-   ## NUNCA COMMITE DIRETAMENTE NA MAIN
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
@@ -82,7 +82,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/gustavo-henrique-dos-santos-12a1b1221/))]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/gustavo-henrique-dos-santos-12a1b1221/))
+[![Linkedin](https://img.shields.io/badge/-Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/gustavo-henrique-dos-santos-12a1b1221))]((https://www.linkedin.com/in/gustavo-henrique-dos-santos-12a1b1221))
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavohenrisantos@gmail.com)](mailto:gustavohenrisantos@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/hdsgd)
 
