@@ -74,12 +74,12 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#" title="Responsável Técnico">
-        <img src="[https://avatars3.githubusercontent.com/u/31936044](https://avatars.githubusercontent.com/u/92416178?v=4)" width="100px;" alt="Foto do Gustavo Henrique no GitHub"/><br>
+        <img src="[[https://avatars3.githubusercontent.com/u/31936044]" width="100px;" alt="Foto do Gustavo Henrique no GitHub"/><br>
         <sub>
           <b>Gustavo Henrique</b>
         </sub>
       </a>
-    </td>  
+    </td>      
   </tr>
 </table>
 
