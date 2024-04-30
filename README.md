@@ -1,7 +1,5 @@
 # Indicadores de Desempenho no Esporte
 
-<img src="imagem.png" alt="Exemplo imagem">
-
 > No esporte de alto rendimento, busca-se cada vez mais resultados expressivos, visto  um elevado número de competições durante uma temporada, fazendo com que  treinadores e suas comissões técnicas busquem estratégias que contribuam à  preparação dos atletas. No aprimoramento do rendimento esportivo, o conjunto de  variáveis que podem impactar o resultado é muito grande, em que diversas variáveis,  sejam fisiológicas, motoras, psicológicas, sociodemográficas e a carga de  treinamento, tem apresentado correlação com o resultado esportivo, sendo, portanto,  consideradas como possíveis indicadores de desempenho. Em geral, os estudos na  área esportiva têm avaliado indicadores de desempenho esportivo de forma isolada, ou ainda, em uma combinação de variáveis, que objetivamente podem determinar um  ou mais aspectos do desempenho esportivo, podendo estar relacionados a um  resultado bem sucedido. Com isso, observa-se uma escassez de estudos que  procuraram reunir um conjunto de variáveis, de forma que as mesmas possam ser  analisadas de forma integrada e holística. Assim, o objetivo deste projeto é avaliar e  monitorar os indicadores de performance esportiva em atletas jovens ao longo de uma  temporada esportiva, buscando identificar os principais indicadores de desempenho.
 
 ### Ajustes e melhorias
